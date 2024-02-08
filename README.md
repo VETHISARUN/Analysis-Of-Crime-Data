@@ -1,5 +1,6 @@
 # Analysis-Of-Crime-Data
 
+
 This repository contains Python code for analyzing crime data using PySpark and visualizing insights through Tkinter and Matplotlib. The code covers various aspects such as crime statistics, weapon involvement, crime locations, and temporal patterns.
 
 ## Setup
